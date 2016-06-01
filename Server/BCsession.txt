@@ -1,0 +1,47 @@
+
+******************** Beale Cypher Program ********************
+                                                              
+OPTIONS:                                                      
+                                                              
+   1. E (Enciphers a line of text using the MBC method)       
+   2. D (Deciphers a line of numbers using the MBC method)    
+   3. Q (Quits the program)                                   
+                                                              
+Please enter an option: e
+Please enter a word(s) or sentence to encode: 
+
+Your input: 
+penis
+
+Server response:
+167 1147 269 517 600 
+
+
+******************** Beale Cypher Program ********************
+                                                              
+OPTIONS:                                                      
+                                                              
+   1. E (Enciphers a line of text using the MBC method)       
+   2. D (Deciphers a line of numbers using the MBC method)    
+   3. Q (Quits the program)                                   
+                                                              
+Please enter an option: D
+NOTE! Seperate each int with at least one space!
+Please enter encoded text to decode: 
+
+Your coded messege: 
+1 5 6 8 
+
+Server response:
+W o h i 
+
+
+******************** Beale Cypher Program ********************
+                                                              
+OPTIONS:                                                      
+                                                              
+   1. E (Enciphers a line of text using the MBC method)       
+   2. D (Deciphers a line of numbers using the MBC method)    
+   3. Q (Quits the program)                                   
+                                                              
+Please enter an option: 
